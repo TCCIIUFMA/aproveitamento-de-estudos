@@ -2,7 +2,7 @@
 
 Trabalho de Conclusão de Curso II
 
-## Getting Started
+## Início
 
 Este projeto é um aplicativo de aproveitamento de estudos feito no flutter para os alunos do curso de Bacharelado Interdisciplinar 
 em Ciência e Tecnologia da Universidade Federal do Maranhão
