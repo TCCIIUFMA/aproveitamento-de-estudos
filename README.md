@@ -4,13 +4,15 @@ Trabalho de Conclusão de Curso II
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Este projeto é um aplicativo de aproveitamento de estudos feito no flutter para os alunos do curso de Bacharelado Interdisciplinar 
+em Ciência e Tecnologia da Universidade Federal do Maranhão
 
-A few resources to get you started if this is your first Flutter project:
+Alunos:
+Jheymisson Martins Ferreira
+Lucas Fabrício Neves de Sousa
+Lucas Miguel Rodrigues Matias
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Orientadora:
+Profa. Me. Alana Oliveira Meireles Teixeira
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
