@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "371367830263",
+    "firebase_url": "https://aproveitamento-de-estudo.firebaseio.com",
+    "project_id": "aproveitamento-de-estudo",
+    "storage_bucket": "aproveitamento-de-estudo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371367830263:android:a5e4de41ee812d43a5e9f2",
+        "android_client_info": {
+          "package_name": "br.com.bictapp.aproveitamento_de_estudos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371367830263-vqu8iltfsf0llonpr3n7h8208dfauemv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0cDwKzi9515g1TTFidqxc-i0zMgX2FRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371367830263-vqu8iltfsf0llonpr3n7h8208dfauemv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
